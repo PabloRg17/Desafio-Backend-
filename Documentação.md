@@ -21,10 +21,15 @@ Abaixo está a documentação do desafio técnico para backend em Golang da Tagh
 ## Estrutura de Diretórios
 
  ├── db.go # Conexão com o banco de dados PostgreSQL.
+
  ├── handlers.go # Funções responsáveis pelas rotas e lógica de negócios. 
+
  ├── main.go # Arquivo principal que inicializa o servidor e as rotas. 
+
  ├── .env # Arquivo de configuração com variáveis de ambiente.
+
  ├── go.mod # Arquivo de gerenciamento de dependências Go. 
+
   └── Documentação.md # Documentação do projeto.
 
   ################################################
